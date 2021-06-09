@@ -1,7 +1,7 @@
 body{
     background-color: grey;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
+}
 
 *{
     margin: 0;
@@ -41,7 +41,7 @@ main{
     margin: 70px 200px;
     padding: 0;
     box-sizing: border-box;
-    background-color: white;
+    background-color: white;    
 }
 
 section{
@@ -54,8 +54,7 @@ h4{
 
 .blu{
     background-color: blue;
-    color: white;
-    
+    color: white;  
 }
 
 .white{
@@ -66,4 +65,36 @@ h4{
 .linea{
     color: grey; 
 }
+
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 100px;
+}
+
+.viola{
+    background-color: purple;
+    color: white;
+}
+
+.verde{
+    background-color: green;
+    color: white;
+}
+
+.arancio{
+    background-color: rgb(250, 169, 18);
+    color: white;
+}
+
+.rosa{
+    background-color: rgb(224, 75, 175);
+    color: white;
+}
+
+.lime{
+    background-color: rgb(176, 236, 34);
+    color: white;
+}
+
 /*fine main*/
