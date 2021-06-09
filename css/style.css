@@ -1,5 +1,5 @@
 body{
-    background-color: grey;
+    background-color: rgb(223, 223, 223);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -48,9 +48,28 @@ section{
     margin: 30px;    
 }
 
-h4{
+.row{
+    display: inline;
+    vertical-align: middle;
+}
+
+span{
     margin: 30px;
     vertical-align: middle;
+}
+
+.tondo{
+    height: 50px;
+    width: 500px;
+    border-radius: 100%;
+    border: 1px solid green;
+}
+
+.tondo-red{
+    height: 50px;
+    width: 500px;
+    border-radius: 100%;
+    border: 1px solid red
 }
 
 #first-button{
@@ -69,7 +88,9 @@ h4{
 }
 
 .linea{
-    color: grey; 
+    color: rgb(223, 223, 223);
+    border: 2px solid;
+
 }
 
 button{
