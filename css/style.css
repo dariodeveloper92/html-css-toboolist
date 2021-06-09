@@ -45,7 +45,7 @@ main{
 }
 
 section{
-    margin: 30px;    
+    margin: 40px;    
 }
 
 .row{
@@ -58,22 +58,25 @@ span{
     vertical-align: middle;
 }
 
+button{
+    margin-top: 20px;
+}
+
 .tondo{
     height: 50px;
-    width: 500px;
-    border-radius: 100%;
-    border: 1px solid green;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid green;
 }
 
 .tondo-red{
     height: 50px;
-    width: 500px;
-    border-radius: 100%;
-    border: 1px solid red
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid red
 }
 
 #first-button{
-    
     border-radius: 7px;
 }
 
