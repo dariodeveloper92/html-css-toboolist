@@ -1,3 +1,7 @@
+body{
+    background-color: grey;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -6,20 +10,20 @@
 
 /*common*/
 .container{
-    width: 80%;
-    margin: 30px;
+    width: 100%;
+    margin: 0;
 }
-
 /* fine common*/
 
 /*header*/
-
 header{
     height: 100px;
     background-size: 30%;
+    background-color: white;
 }
 
 #logo{
+    margin: 10px;
     height: 60px;
     vertical-align: middle;
 }
@@ -28,7 +32,9 @@ header{
     display: inline-block;
     font-size: 40px;
     vertical-align: middle;
-    
 }
-
 /*fine header*/
+
+/*main*/
+
+/*fine main*/
