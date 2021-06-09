@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*common*/
+.container{
+    width: 80%;
+    margin: 30px;
+}
+
+/* fine common*/
+
+/*header*/
+
+header{
+    height: 100px;
+    background-size: 30%;
+}
+
+#logo{
+    height: 60px;
+    vertical-align: middle;
+}
+
+#scritta{
+    display: inline-block;
+    font-size: 40px;
+    vertical-align: middle;
+    
+}
+
+/*fine header*/
